@@ -3,10 +3,10 @@
   <remote name="origin" fetch="https://github.com/" />
   <default revision="main" remote="origin" />
 
-  <project path="hello1"
+  <project path="hello3"
            name="HirokiGotoh/hello1.git" remote="origin" />
 
-  <project path="hello1/hello2"
+  <project path="hello3/hello2"
            name="HirokiGotoh/hello2.git" remote="origin" />
   <!-- -->
 </manifest>
