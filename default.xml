@@ -8,5 +8,9 @@
 
   <project path="hello2"
            name="HirokiGotoh/hello2.git" remote="origin" />
+
+  <project path="hello3"
+           name="HirokiGotoh/hello1.git" remote="origin" />
+
   <!-- -->
 </manifest>
